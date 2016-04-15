@@ -1,11 +1,11 @@
 body {
-    background-color: lightgrey;
-}
+    background-color: #E8E4E4;
+
 
 h1 {
-    color: blue;
+    color:#FF00FF;
 }
 
 p {
-    color:green;
+    color:black;
 }
