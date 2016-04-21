@@ -14,7 +14,7 @@ ul {
     margin: 0;
     padding: 0;
     width: 10%;
-    background-color: #7400FF;
+    background-color: #FFE940;
     height: 100%; /* Full height */
     position: fixed; /* Make it stick, even on scroll */
     overflow: auto; /* Enable scrolling if the sidenav has too much content */
@@ -29,6 +29,6 @@ li a {
 }
 
 li a:hover {
-    background-color: #FFE940;
+    background-color: #7400FF;
     color: white;
 }
