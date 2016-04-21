@@ -8,3 +8,26 @@ h1 {
 p {
     color:black;
 }
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+}
+
+li a {
+    display: block;
+    color: #000;
+    padding: 8px 0 8px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #555;
+    color: white;
+}
+.container {
+   margin:0 auto; /* this will center the page */
+   width:960px; /*  use your width here */
+}
