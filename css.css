@@ -32,3 +32,7 @@ li a:hover {
     background-color: #7400FF;
     color: white;
 }
+.container {
+   margin:0 auto; /* this will center the page */
+   width:960px; /*  use your width here */
+}
