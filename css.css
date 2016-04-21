@@ -2,6 +2,7 @@ body {
     background-color: #FFFFE6;
 }
 h1 {
+	font:"Arial Black";
     color:#FF00FF;
 }
 
@@ -17,6 +18,7 @@ ul {
     height: 100%; /* Full height */
     position: fixed; /* Make it stick, even on scroll */
     overflow: auto; /* Enable scrolling if the sidenav has too much content */
+    font-color:white;
 }
 
 li a {
@@ -27,10 +29,6 @@ li a {
 }
 
 li a:hover {
-    background-color: #555;
+    background-color: #FFE940;
     color: white;
-}
-.container {
-   margin:0 auto; /* this will center the page */
-   width:1000px; /*  use your width here */
 }
